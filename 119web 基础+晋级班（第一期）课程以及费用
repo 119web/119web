@@ -1,0 +1,143 @@
+119web 基础+晋级班（第一期）课程以及费用
+HTML
+超文本 标记语言 (Hyper Text Markup Language)
+第一讲(6课时) 
+•	HTML基础结构
+•	HTML标签 /<(\w+)>(.*?)(<\/\1>)?/
+o	常用标签
+o	布局标签
+o	表单标签
+•	HTML属性 /<(\w+)\s*([\w-]+\="[^"]*"\s*)*>(.*?)(<\/\1>)?/i
+o	4个通用属性
+o	表单标签属性
+o	特殊功能属性
+o	自定义属性
+•	HTML实体、符号
+•	XHTML和HTML /<(\w+)\s*([\w-]+\="[^"]*"\s*)*>(.*?)(<\/\1>)/
+o	no html, but xhtml
+o	HTML验证: http://validator.w3.org/
+•	HTML和XML /<([:\w\-]+)>(.*?)(<\/\1>)/
+o	从超文本的标记 到 可扩展标记语言
+o	可以做网页的 数据传输格式 ( ? )
+第二讲(6课时)
+•	HTML之"偷懒的HTML-coder"
+o	zencoding/emmet
+o	markdown
+o	jade
+o	Server Page (JSP/ASP/PHP)
+•	HTML的"旅行"
+o	从服务端创建到客户端展现的过程
+o	HTTP Code
+o	GET & POST
+o	URL编码
+CSS
+层叠样式表 (Cascading Style Sheets)
+第三讲(4课时)
+•	CSS基础语法和引入格式 /[.#*\s,+:\-\w]+\{([\w-]+\:[^;]+;+)*\}/
+•	CSS样式定义
+•	CSS定位
+•	CSS选择器
+•	CSS层叠次序和优先级
+•	IE滤镜基础知识
+•	IE浏览器使用css表达式引入脚本( expression && behavior )
+•	#实例( css多级联动菜单 )
+第四讲(8课时)
+•	更多的CSS功能: CSS3
+o	扩展选择器
+o	media-query
+o	transform
+o	animation
+•	CSS关联HTML优化验证: http://jigsaw.w3.org/css-validator/
+•	LESS、SASS
+•	压缩, 编码
+•	#实例( 响应式动态页面 )
+JavaScript
+JavaScript 是一种轻量级的编程语言。
+第五讲(12课时)
+•	ECMAScript http://w3school.com.cn/js/pro_js_syntax.asp
+o	基本语法 (任何编程语言的基本语法，都是不涉及平台和实际应用功能的)
+	变量定义和表达式
+	数值运算、字符串运算、比较运算、逻辑运算等
+	各种全局对象的显式定义
+	条件、循环和分支
+	递归典型案例以及实现要素( 结束标志 + 可递归算法 )
+	关键字和保留字
+	#练习( 简单排序算法的原理及实现 )
+	JSON
+	JS秘密花园
+o	全局对象
+o	全局方法
+o	面向对象(封装、继承、多态)
+o	#实例( 面向对象应用实例 )
+第六讲(12课时)
+•	BOM
+o	Window
+o	Navigator
+o	Screen
+o	History
+o	Location
+•	HTML-DOM && XML-DOM
+o	DOM的选择,获取,遍历 (扩展了解:xPath/xQuery)
+o	DOM操作: 删除、创建、克隆、替换、改变、添加
+o	XML-DOM对象属性的继承( 浏览器差异 )
+o	HttpRequest
+o	DOM的attributes操作
+o	HTML-DOM的css操作
+•	浏览器javascript加载/执行基本特点
+•	#练习( 星级评分☆☆☆☆☆ )
+•	#练习( 模拟下拉框 )
+•	#实例( windows计算器 )
+jQuery
+浏览器上面最流行的一套javascript方法库
+第七讲(8课时)
+•	jQuery对象
+•	jQuery的类扩展和原型扩展
+•	Sizzle(jQuery选择器)
+•	jQuery事件绑定和事件代理的实现原理和注意事项 *【this】和【$(this)】
+•	jQuery的属性操作、css操作 && data数据绑定
+•	jQuery.ajax
+•	jQuery.fn.animate
+•	jQuery基本实现原理讲解 wfQuery
+•	#实例( 简单俄罗斯方块 )
+•	#扩展( 基于jQuery的表单验证 )
+nodejs
+第八讲(12课时)
+•	服务端开发和前端开发差异
+•	nodejs 环境安装测试
+•	nodejs 模块查询规范
+•	npm 常用操作
+•	常用nodejs模块
+•	发布自己的包到npm仓库
+•	构建自己的node服务器: f2e-server
+模块化和构建
+第九讲(6课时)
+•	什么是模块化? 为什么需要模块化。
+•	nodejs的CMD && requirejs的AMD。
+•	前端构建解决那些问题？
+•	工具化/流程化的前端构建。
+
+线下听课费用安排：
+全部课程：基础+晋级=12天课程 价格3600 
+基础：Html+css=4天课程 价格1200
+晋级：js+jq+nodejs=8天课程 价格2400
+
+购买视频价格：12天培训内容视频 价格：1800
+
+上课时间：
+2014年12月20号 试听课
+
+2014年12月27号 9:30-11:30 13:00-17:00
+2015年1月10号 9:30-11:30 13:00-17:00
+2015年1月17号 9:30-11:30 13:00-17:00
+2015年1月24号 9:30-11:30 13:00-17:00
+2015年1月31号 9:30-11:30 13:00-17:00
+2015年2月7号 9:30-11:30 13:00-17:00
+2015年3月7号 9:30-11:30 13:00-17:00
+2015年3月14号 9:30-11:30 13:00-17:00
+2015年3月21号 9:30-11:30 13:00-17:00
+2015年3月28号 9:30-11:30 13:00-17:00
+2015年4月11号 9:30-11:30 13:00-17:00
+2015年4月18号 9:30-11:30 13:00-17:00
+
+2015年5月16号 毕业宴
+购买视频及培训相关咨询qq：47935982
